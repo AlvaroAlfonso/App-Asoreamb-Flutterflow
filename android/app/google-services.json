@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "245984420057",
+    "project_id": "phoneautentication-real",
+    "storage_bucket": "phoneautentication-real.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245984420057:android:872a73d756a7240a471ec8",
+        "android_client_info": {
+          "package_name": "io.flutterflow.asoreamapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245984420057-6guosu6kp8qbgu67ghlhs42mqq50ik5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.flutterflow.asoreamapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "245984420057-93ssnlueltt8ekh4dm0kah5b21r48jnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXQy45twM9uYbw6-pWQvQBJdjTaIYbl_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245984420057-93ssnlueltt8ekh4dm0kah5b21r48jnp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "245984420057-dl94g7n5d6ponkruqfoq7lhrv5nq4n69.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.flutterflow.asoreamapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245984420057:android:826c24b211326181471ec8",
+        "android_client_info": {
+          "package_name": "io.flutterflow.asoreambapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245984420057-tj8i0thv8tfubq3t76pm4i5ai2261orj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.flutterflow.asoreambapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "245984420057-93ssnlueltt8ekh4dm0kah5b21r48jnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXQy45twM9uYbw6-pWQvQBJdjTaIYbl_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245984420057-93ssnlueltt8ekh4dm0kah5b21r48jnp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "245984420057-dl94g7n5d6ponkruqfoq7lhrv5nq4n69.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.flutterflow.asoreamapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245984420057:android:aef8c8692321a73b471ec8",
+        "android_client_info": {
+          "package_name": "io.flutterflow.phoneauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245984420057-bekcm3t25fuhpd8d6b588q1qdoe57trv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.flutterflow.phoneauthentication",
+            "certificate_hash": "0910e5afbfcb34b2c606812b6ba84040b368a939"
+          }
+        },
+        {
+          "client_id": "245984420057-93ssnlueltt8ekh4dm0kah5b21r48jnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXQy45twM9uYbw6-pWQvQBJdjTaIYbl_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245984420057-93ssnlueltt8ekh4dm0kah5b21r48jnp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "245984420057-dl94g7n5d6ponkruqfoq7lhrv5nq4n69.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.flutterflow.asoreamapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
